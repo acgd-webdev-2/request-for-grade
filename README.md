@@ -26,4 +26,4 @@ The written explanation should be a list of things we learned this term that you
 
 ## Hand in
 
-Submit your paragraph as an Issue on GitHub, attached to the `saas-website` repository.
+Submit your paragraph as an Issue on GitHub, attached to the `saas-website` repository.And “Pin” the issue: there’s a button near the bottom of the Issue’s screen’s righthand column.
